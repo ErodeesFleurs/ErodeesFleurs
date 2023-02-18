@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi！
 ![ErodeesFleurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErodeesFleurs&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErodeesFleurs&layout=compact&theme=tokyonight)](https://github.com/ErodeesFleurs/github-readme-stats)
 <!--
