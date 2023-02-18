@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ErodeesFleurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErodeesFleurs&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErodeesFleurs&layout=compact)](https://github.com/ErodeesFleurs/github-readme-stats)
 <!--
 **ErodeesFleurs/ErodeesFleurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
