@@ -1,11 +1,11 @@
 ### Hi！
-![ErodeesFleurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErodeesFleurs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErodeesFleurs&layout=compact&theme=tokyonight)](https://github.com/ErodeesFleurs/github-readme-stats)
+![ErodeesFleurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErodeesFleurs&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErodeesFleurs&layout=compact)](https://github.com/ErodeesFleurs/github-readme-stats)
 <!--
 **ErodeesFleurs/ErodeesFleurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- &theme=tokyonight
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
